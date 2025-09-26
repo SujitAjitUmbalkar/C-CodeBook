@@ -13,7 +13,6 @@ int main()
     printf("%lu\n",sizeof(Price[1]));   // 4
     printf("%lu\n",sizeof(Price[3]));   // 4
     
-
     return 0;
 }
 
