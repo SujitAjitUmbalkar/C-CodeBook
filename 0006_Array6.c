@@ -13,6 +13,7 @@ int main()
     printf("%d\n",Arr[1][3]);   // 80
     printf("%d\n",Arr[2][3]);   // 120
     printf("%d\n",Arr[0][3]);   // 40
+
     
     return 0;
 }
