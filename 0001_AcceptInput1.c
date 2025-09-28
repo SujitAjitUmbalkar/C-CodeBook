@@ -22,6 +22,7 @@ int main()
     printf("Enter Char : \n");
     scanf("%s",&ch);
 
+    
     // Accepting double 
     printf("Enter double : \n");
     scanf("%lf",&D);
