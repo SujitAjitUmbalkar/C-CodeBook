@@ -10,7 +10,6 @@ int main()
     char str[10] = {0}; 
     char ch = '\0';
     
-
     // Accepting int 
     printf("Enter Integer : \n");
     scanf("%d",&number);
