@@ -13,6 +13,7 @@ int main()
     printf("%lu\n",sizeof(Arr[0])); // 4
     printf("%lu\n",sizeof(Arr[2])); // 4
     
+
     printf("%d\n",Arr);     // 100
     printf("%d\n",&Arr);    // 100
     printf("%d\n",&Arr[0]); // 100
