@@ -9,6 +9,7 @@ int main()
     float Mark5 = 87.56;
 
     
+
     // Mark is an One dimentional array which contains 5 elements, 
     // each element is of type float
     float Mark[5] = {78.98,90.99,67.89,56.90,87.56};
